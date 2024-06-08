@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/kevate_tejas" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kevate_tejas" height="30" width="40"></a>
-  <a href="https://linkedin.com/in/tejaskevate" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas kevate" height="30" width="40"></a>
+  <a href="https://www.linkedin.com/in/tejas-kevate-806b9622b/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas kevate" height="30" width="40"></a>
   <a href="https://fb.com/tejaskevate" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tejas kevate" height="30" width="40"></a>
   <a href="https://instagram.com/tejaskevate_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejaskevate_" height="30" width="40"></a>
   <a href="https://www.codechef.com/users/tejaskevate89" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tejaskevate89" height="30" width="40"></a>
